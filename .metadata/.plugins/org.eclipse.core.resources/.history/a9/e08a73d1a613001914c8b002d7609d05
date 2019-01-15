@@ -1,0 +1,26 @@
+package step_definitions;
+
+import cucumber.api.java.en.Given;
+import cucumber.api.java.en.Then;
+import cucumber.api.java.en.When;
+import utilities.ConfigurationReader;
+import utilities.Driver;
+
+public class Steps {
+
+	@Given("the user is on the homepage")
+	public void the_user_is_on_the_homepage() {
+		Driver.getDriver().get(ConfigurationReader.getProperty("url"));
+	}
+
+	@When("the user enters  search term")
+	public void the_user_enters_search_term() {
+		System.out.println("Erkan");
+	}
+
+	@Then("the search box must contain the search term")
+	public void the_search_box_must_contain_the_search_term() {
+		System.out.println("Erkan");
+	}
+
+}

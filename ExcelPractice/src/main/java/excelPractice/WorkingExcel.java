@@ -1,0 +1,58 @@
+package excelPractice;
+
+
+import java.io.File;
+import java.io.IOException;
+
+import org.apache.poi.EncryptedDocumentException;
+import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
+import org.apache.poi.ss.usermodel.Cell;
+import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.ss.usermodel.Sheet;
+import org.apache.poi.ss.usermodel.Workbook;
+import org.apache.poi.ss.usermodel.WorkbookFactory;
+
+import com.mifmif.common.regex.Main;
+import com.sun.org.apache.bcel.internal.generic.NEW;
+ 
+ 
+
+public class WorkingExcel {
+
+	
+	public static void main(String[] args) throws Exception {
+	
+		
+		//Workbook --> Sheet --> Row --> Cell
+		
+		
+	File excelFile = new File("C:/Users/erkan/OneDrive/Masaüstü/MOCK_DATA.xlsx");
+	Workbook wb = WorkbookFactory.create(excelFile);
+	
+	System.out.println(wb.getNumberOfSheets());
+	
+	Sheet sh =(Sheet) wb.getSheetAt(0);
+	
+	Row row1 = sh.getRow(0);
+	Cell c1 = row1.getCell(5);
+	
+	
+	wb.close();
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	}
+	
+	
+}

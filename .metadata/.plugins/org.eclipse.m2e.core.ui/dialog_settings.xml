@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="ExcelPractice"/>
+			<item value="myCucumber"/>
+			<item value="maven-selenium-cucumber"/>
+			<item value="cucumber"/>
+			<item value="com.automatinapp"/>
+			<item value="LastMaven-TestNGProject"/>
+			<item value="MyFinalMavenTestNG-FramWork"/>
+			<item value="MyMaven-TestNG-Project"/>
+			<item value="Selenium-maven-propertyfile"/>
+			<item value="newProject"/>
+			<item value="New-Project"/>
+			<item value="Maven_Selenium_TestNGProjectFromScratch"/>
+			<item value="PorscheCheckout"/>
+		</list>
+		<list key="name">
+			<item value="erkan"/>
+		</list>
+		<list key="artifactId">
+			<item value="ExcelPractice"/>
+			<item value="myCucumber"/>
+			<item value="maven-selenium-cucumber"/>
+			<item value="cucumber-Project"/>
+			<item value="CucumberProject"/>
+			<item value="LastMaven-TestNGProject"/>
+			<item value="MyFinalMavenTestNG-FramWork"/>
+			<item value="MyMaven-TestNG-Project"/>
+			<item value="propertyfile"/>
+			<item value="newProject"/>
+			<item value="com.erkan"/>
+			<item value="checkout"/>
+			<item value="PorscheCheckout"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\erkan\Downloads\cucumber-acceptance"/>
+			<item value="C:\Users\erkan\Downloads\cucumber-acceptance-tests"/>
+			<item value="C:\Users\erkan\Downloads\cucumber-acceptance-tests-d1bbead55557d3a6b2d4462a60016909063d043a"/>
+			<item value="C:\Users\erkan\Downloads\final-testng-framework"/>
+			<item value="C:\Users\erkan\Downloads\final"/>
+			<item value="C:\Users\erkan\OneDrive\Masaüstü\Eclipse\parallel-multi-browser-testng-framework"/>
+			<item value="C:\Users\erkan\OneDrive\Masaüstü\Eclipse\final-testng-framework"/>
+			<item value="C:\Users\erkan\OneDrive\Masaüstü\Eclipse\cucumber-testng-automation"/>
+			<item value="C:\Users\erkan\OneDrive\Masaüstü\Eclipse\selenium-maven-automation"/>
+			<item value="C:\Users\erkan\Documents\testing-maven\first-maven-app"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item value="All Catalogs" key="catalog"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\erkan\OneDrive\Masaüstü\Eclipse\CucumberProject"/>
+			<item value="C:\Users\erkan\OneDrive\Masaüstü\Eclipse\MyFinalMavenTestNG-FrameWork"/>
+			<item value="C:\Users\erkan\OneDrive\Masaüstü\Eclipse\Exeptions\src\propertiesFile\MyRunner.java"/>
+			<item value="C:\Users\erkan\OneDrive\Masaüstü\Eclipse"/>
+			<item value="C:\Users\erkan\Documents\testing-maven\first-maven-app\pom.xml"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

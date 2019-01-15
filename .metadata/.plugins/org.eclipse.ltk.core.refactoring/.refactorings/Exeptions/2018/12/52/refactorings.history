@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;Comparing&apos; to &apos;comparing&apos;&#x0D;&#x0A;- Original project: &apos;Exeptions&apos;&#x0D;&#x0A;- Original element: &apos;Exeptions/src/Comparing&apos;&#x0D;&#x0A;- Renamed element: &apos;Exeptions/src/comparing&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;Comparing&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;Comparing" name="comparing" qualified="false" references="true" stamp="1546032363755" textual="false" version="1.0"/>
+</session>

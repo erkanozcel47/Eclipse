@@ -1,0 +1,27 @@
+package step_definitions;
+
+import java.util.Map;
+
+import cucumber.api.java.en.Given;
+import cucumber.api.java.en.Then;
+import cucumber.api.java.en.When;
+
+public class BluesFinderStepDefinitions {
+	
+	
+	@Given("the user is on the page")
+	public void the_user_is_on_the_page() {
+	    
+	}
+
+	@When("the user selects {string}")
+	public void the_user_selects(String string) {
+	   
+	}
+
+	@Then("the system should velidate the product information")
+	public void the_system_should_velidate_the_product_information(Map<String, String> dataTable) {
+	 
+	    
+	}
+}

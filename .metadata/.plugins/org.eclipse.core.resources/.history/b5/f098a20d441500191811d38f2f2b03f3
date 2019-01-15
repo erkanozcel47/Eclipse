@@ -1,0 +1,20 @@
+package pages;
+
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+import utilities.Driver;
+
+public class BlouseFinder {
+
+	public BlouseFinder() {
+		PageFactory.initElements(Driver.getDriver(), this);
+	}
+	
+	FindBy(xpath="//a[@href='http://automationpractice.com/index.php?id_product=1&controller=product']")
+	public WebElement sadssElement;
+	
+	
+	
+}

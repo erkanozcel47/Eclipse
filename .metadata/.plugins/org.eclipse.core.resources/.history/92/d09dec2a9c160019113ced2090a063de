@@ -1,0 +1,27 @@
+package utilities;
+
+import java.util.List;
+
+public class Excel {
+
+	public static void main(String[] args) {
+		ExcelUtil excelObject = new ExcelUtil("C:/Users/erkan/OneDrive/Masaüstü/MOCK_DATA.xlsx","data");
+        
+		System.out.println("column Count "+excelObject.columnCount());
+		System.out.println("Row Count "+excelObject.rowCount());
+		
+		List<String> columndNamen=excelObject.getColumnsNames();
+		System.out.println(columndNamen);
+		 
+		String[][] dataArray= excelObject.getDataArray();
+		for (String[] row :dataArray) {
+			
+			for (String  value : row) {
+				System.out.print(value+"\t"+"\t");
+			}
+			System.out.println();
+		}
+		
+	}
+
+}

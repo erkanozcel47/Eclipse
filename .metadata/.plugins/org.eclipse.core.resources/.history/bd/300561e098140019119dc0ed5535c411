@@ -1,0 +1,23 @@
+package step_definitions;
+
+import org.openqa.selenium.WebElement;
+ 
+
+import cucumber.api.java.en.Given;
+import cucumber.api.java.en.Then;
+
+public class ProductInformationStepDefinitions {
+
+	
+	@Given("the user is on the home page")
+	public void the_user_is_on_the_home_page() {
+	 
+	}
+
+	@Then("the user should be to see {string}")
+	public void the_user_should_be_to_see(String string) {
+ 
+	}
+	
+	
+}

@@ -1,0 +1,15 @@
+package utilities;
+
+public class Excel {
+
+	public static void main(String[] args) {
+		ExcelUtil excelObject = new ExcelUtil("C:/Users/erkan/OneDrive/Masaüstü/MOCK_DATA.xlsx","data");
+        
+		System.out.println("column Count "+excelObject.columnCount());
+		System.out.println("Row Count "+excelObject.rowCount());
+		
+		
+		
+	}
+
+}

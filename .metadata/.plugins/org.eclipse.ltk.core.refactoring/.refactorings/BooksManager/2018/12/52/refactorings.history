@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;BooksData.csv&apos; to &apos;Book Manager&apos;&#x0D;&#x0A;- Original project: &apos;BooksManager&apos;&#x0D;&#x0A;- Destination element: &apos;Book Manager&apos;&#x0D;&#x0A;- Original element: &apos;BooksData.csv&apos;" description="Copy file" destination="=Book Manager" element1="BooksData.csv" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1545598379741" units="0" version="1.0"/>
+</session>
